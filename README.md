@@ -8,5 +8,5 @@
 <a href= "https://www.linkedin.com/in/justin-ozkan/"> <img src="https://img.shields.io/badge/LinkedIn-blue" height="40" width="100" ></a>
 --- 
 ### A nice gesture: 
-<a href="https://www.buymeacoffee.com/Jozkan2s" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="100"></a>
+<a href="https://www.buymeacoffee.com/Jozkan2s" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="40" width="150"></a>
 
