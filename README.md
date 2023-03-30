@@ -1,4 +1,4 @@
- ### I am a full-stack developer navigating the journey from food to tech. I hope one day to bridge the two. I enjoy creating simple and elegant interfaces from scratch.
+
 
 --- 
 
